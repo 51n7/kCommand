@@ -1,8 +1,8 @@
 # kCommand
 
-...
+This repo contains a KDE plasmoid (desktop widget) that provides a system menu capable of running shell commands and remembering recent entries.
 
-[insert screenshot]
+![](https://github.com/user-attachments/assets/5ec5d9d2-542e-4488-94d4-93ce06c5630e)
 
 ## Installation
 
@@ -29,7 +29,6 @@
 
 Click menu icon, voila! 🎉
 
-[insert screenshot]
 
 
 
