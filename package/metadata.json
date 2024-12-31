@@ -1,0 +1,22 @@
+{
+  "KPackageStructure": "Plasma/Applet",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Name": "51n7"
+      }
+    ],
+    "Category": "Application Launchers",
+    "Description": "",
+    "Icon": "start-here-kde",
+    "Id": "org.51n7.kCommand",
+    "License": "GPL-2.0+",
+    "Name": "kCommand",
+    "ServiceTypes": [
+      "Plasma/Applet"
+    ],
+    "Version": "1.0",
+    "Website": "https://github.com/51n7/kCommand"
+  },
+  "X-Plasma-API-Minimum-Version": "6.0"
+}

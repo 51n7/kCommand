@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+    http://www.kde.org/standards/kcfg/1.0/kcfg.xsd" >
+  <kcfgfile name=""/>
+
+  <group name="Apperance">
+    <entry name="icon" type="String">
+      <label>The name of the icon to use for the compact representation (e.g. on a small panel).</label>
+      <default>utilities-terminal-symbolic</default>
+    </entry>
+    
+    <entry name="width" type="int">
+      <default>240</default>
+    </entry>
+
+    <entry name="height" type="int">
+      <default>290</default>
+    </entry>
+
+    <entry name="buttonHeight" type="int">
+      <default>30</default>
+    </entry>
+
+    <entry name="listLimit" type="int">
+      <default>10</default>
+    </entry>
+
+    <entry name="cmdList" type="StringList">
+      <default></default>
+    </entry>
+  </group>
+</kcfg>
